@@ -1,4 +1,4 @@
-# Un parámetro es una variable definidad por un método que recibe un valor
+# Un parámetro es una variable definida por un método que recibe un valor
 # cuando se llama al método.
 
 #Un argumento es un valor que se pasa a un método cuando es invocado
